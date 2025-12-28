@@ -132,7 +132,21 @@ PDFMind/
 
 ## Screenshots
 
-*(Add screenshots of the web interface here)*
+### Home Page
+<img src="images/home.png" width="700"/>
+
+### Upload PDF
+<img src="images/upload.png" width="700"/>
+
+### Process PDF
+<img src="images/process.png" width="700"/>
+
+### Analysis Result
+<img src="images/analysis.png" width="700"/>
+
+### Result Page>
+<img src="images/result.png" width="700"/>
+
 
 ## Contributing
 
