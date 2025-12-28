@@ -133,7 +133,7 @@ PDFMind/
 ## Screenshots
 
 ### Home Page
-<img src="images/home.png" width="700"/>
+<img src="images/index.png" width="700"/>
 
 ### Upload PDF
 <img src="images/upload.png" width="700"/>
